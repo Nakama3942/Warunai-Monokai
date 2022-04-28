@@ -1,7 +1,7 @@
 [General]
-ThemeName=Warunai Monokai
+ThemeName=One Dark
 PreferredStyles=Fusion
-DefaultTextEditorColorScheme=warunaimonokai.xml
+DefaultTextEditorColorScheme=onedark.xml
 
 [Palette]
 shadowBackground=ff21252b
@@ -17,16 +17,14 @@ selectedBackground=ff3a3f4b
 selectedBackgroundText=ffd7dae0
 normalBackground=ff282c34
 alternateBackground=ff31363f
-error=ffdb6f71
-warning=ffecbc1c
-success=ff5cdc68
-message=ffffbf00
+error=ffe06c75
+warning=ffe5c07b
+success=ff98c379
+message=ff61afef
 splitter=ff181a1f
 textColorLink=ff61afef
 textColorLinkVisited=ffc678dd
 backgroundColorDisabled=ff21252b
-Info=ff3099dc
-Interrupt=ff587ff7
 
 [Colors]
 ;DS controls theme START
@@ -147,7 +145,7 @@ DStabFocusBackground=message
 DStabFocusText=shadowBackground
 DStabFocusIcon=shadowBackground
 DStabFocusButtonHover=30ffffff
-DStabFocusButtonPress=30ffffff
+DStabFocusButtonPress=50ffffff
 
 DSnavigatorBranch=text
 DSnavigatorBranchIndicator=text
@@ -216,8 +214,8 @@ FancyToolButtonSelectedColor=selectedBackground
 FutureProgressBackgroundColor=shadowBackground
 IconsBaseColor=toolBarItem
 IconsDisabledColor=toolBarItemDisabled
-IconsInfoColor=Info
-IconsInfoToolBarColor=Info
+IconsInfoColor=message
+IconsInfoToolBarColor=message
 IconsWarningColor=warning
 IconsWarningToolBarColor=warning
 IconsErrorColor=error
@@ -226,17 +224,17 @@ IconsRunColor=success
 IconsRunToolBarColor=success
 IconsStopColor=error
 IconsStopToolBarColor=error
-IconsInterruptColor=Interrupt
-IconsInterruptToolBarColor=Interrupt
+IconsInterruptColor=message
+IconsInterruptToolBarColor=message
 IconsDebugColor=toolBarItem
 IconsNavigationArrowsColor=warning
 IconsBuildHammerHandleColor=b06112
 IconsBuildHammerHeadColor=toolBarItem
 IconsModeWelcomeActiveColor=success
-IconsModeEditActiveColor=success
-IconsModeDesignActiveColor=success
-IconsModeDebugActiveColor=error
-IconsModeProjectActiveColor=warning
+IconsModeEditActiveColor=message
+IconsModeDesignActiveColor=warning
+IconsModeDebugActiveColor=message
+IconsModeProjectActiveColor=success
 IconsModeAnalyzeActiveColor=message
 IconsModeHelpActiveColor=warning
 IconsCodeModelKeywordColor=ff777777
@@ -320,12 +318,12 @@ Welcome_ForegroundPrimaryColor=text
 Welcome_ForegroundSecondaryColor=text
 Welcome_BackgroundColor=normalBackground
 Welcome_BackgroundPrimaryColor=normalBackground
-Welcome_BackgroundSecondaryColor=ff1f2229
+Welcome_BackgroundSecondaryColor=normalBackground
 Welcome_ButtonBackgroundColor=normalBackground
 Welcome_DividerColor=splitter
 Welcome_HoverColor=hoverBackground
-Welcome_AccentColor=success
-Welcome_LinkColor=success
+Welcome_AccentColor=message
+Welcome_LinkColor=textColorLink
 Welcome_DisabledLinkColor=textDisabled
 
 Timeline_TextColor=text
@@ -348,7 +346,7 @@ VcsBase_FileUnmerged_TextColor=error
 Bookmarks_TextMarkColor=message
 
 TextEditor_SearchResult_ScrollBarColor=success
-TextEditor_CurrentLine_ScrollBarColor=Interrupt
+TextEditor_CurrentLine_ScrollBarColor=message
 
 ProjectExplorer_TaskError_TextMarkColor=error
 ProjectExplorer_TaskWarn_TextMarkColor=warning
@@ -411,6 +409,6 @@ WindowColorAsBase=true
 DarkUserInterface=true
 
 [Gradients]
-DetailsWidgetHeaderGradient\1\color=00000000
+DetailsWidgetHeaderGradient\1\color=normalBackground
 DetailsWidgetHeaderGradient\1\pos=1
 DetailsWidgetHeaderGradient\size=1
