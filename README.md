@@ -17,6 +17,11 @@
 	       caption="Monokai & One Dark -> One Monokai -> Warunai Monokai">
 </p>
 
+## Originals
+[Monokai](https://github.com/bfrg/qtcreator-monokai)
+[One Dark](https://gitlab.com/iohanaan/qtcreator-onedark)
+[One Monokai](https://github.com/jakoch/one_monokai_theme_for_qtcreator)
+
 ## Installation
 
 ### Theme
