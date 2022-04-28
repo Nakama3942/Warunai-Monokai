@@ -8,9 +8,14 @@
 
 # 悪ないものかい
 ## Overview
-"Isn't it bad?" (jp.: 悪ないものかい [warunai monokai]) - I wanted to invent my own name so that the second word would remain "Monokai". I do not know where the original author got this word (from Japanese or not), but I think the name came out not bad: D.
+"Isn't it bad?" (jp.: 悪ないものかい [warunai monokai]) - I wanted to invent my own name so that the second word would remain "Monokai". I do not know where the original author got this word (from Japanese or not), but I think the name came out not bad :D.
 
-![Family tree](https://github.com/Nakama3942/Warunai-Monokai/blob/main/image/WarunaiMonokai_Inheritance.png "Monokai & One Dark -> One Monokai -> Warunai Monokai")
+<p align="center">
+	<image
+	       src="https://github.com/Nakama3942/Warunai-Monokai/blob/main/image/WarunaiMonokai_Inheritance.png"
+	       alt="Family tree"
+	       caption="Monokai & One Dark -> One Monokai -> Warunai Monokai">
+</p>
 
 ## Installation
 
@@ -31,16 +36,24 @@
 - Go to `Qt Creator -> Tools -> Options > Environment`, then in the Tab `Interface` select `Theme`: `One Monokai`
 
 ## Screenshots
-![Display ad file](https://github.com/Nakama3942/Warunai-Monokai/blob/main/image/Screenshot_2.png "Header")
-![Display the definition file](https://github.com/Nakama3942/Warunai-Monokai/blob/main/image/Screenshot_3.png "Source")
+<p align="center">
+	<image
+	       src="https://github.com/Nakama3942/Warunai-Monokai/blob/main/image/Screenshot_2.png"
+	       alt="Display ad file"
+	       caption="Header">
+	<image
+	       src="https://github.com/Nakama3942/Warunai-Monokai/blob/main/image/Screenshot_3.png"
+	       alt="Display the definition file"
+	       caption="Source">
+</p>
 
 ## Troubleshooting
-All algorithms have been tested by me, but if you have problems using the library, the code does not work, there are suggestions for optimization or advice on improving the style of the code and names - I invite you [here](https://github.com/Nakama3942/Warunai-Monokai/blob/main/CONTRIBUTING.md).
+If you have problems using the theme or there are suggestions for setting colors - I invite you [here](https://github.com/Nakama3942/Warunai-Monokai/blob/main/CONTRIBUTING.md).
 
 ## Authors
-<table>
+<table align="center">
 	<tr>
-		<td align="center"><a href="https://github.com/Nakama3942"><img src="https://avatars.githubusercontent.com/u/73797846?s=400&u=a9b7688ac521d739825d7003a5bd599aab74cb76&v=4" width="500px;" alt=""/><br /><sub><b>Kalynovsky Valentin</b></sub></a><sub><br />"Ideological inspirer and Author"</sub></td>
+		<td align="center"><a href="https://github.com/Nakama3942"><img src="https://avatars.githubusercontent.com/u/73797846?s=400&u=a9b7688ac521d739825d7003a5bd599aab74cb76&v=4" width="350px;" alt=""/><br /><b>Kalynovsky Valentin</b></a><br />"Ideological inspirer and Author"</td>
 		<!--<td></td>-->
 	</tr>
 	<!--
