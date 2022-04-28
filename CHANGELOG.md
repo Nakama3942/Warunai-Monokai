@@ -38,12 +38,12 @@
 
 ---
 -->
-## v1.0.0 (DATE)
+## v1.0.0 (28.04.2022)
 
 #### Release
-- Додав початкову тему оформлення - One Dark.
-- Додав One Monokai та виправив, щоб вона правильно відображалась на новій версії. Майже така ж, що і за посиланням.
-- Змінив One Monokai під свої смаки. Creatortheme був узятий з One Dark замість One Monokai (у якого у головному меню не так гарно відображаються деякі елементи), додав деяких кольорів з One Monokai і додав декілька своїх кольорів. Перейменував тему в "Warunai Monokai".
-- Добавив підсвічування коду з One Dark.
-- Додав підсвічування коду з One Monokai й виправив помилки у трьох тегах.
-- Змінив підсвічування з One Monokai під свої смаки. Отримав власне підсвічування з назвою "Warunai Monokai".
+- Added the original design theme - One Dark.
+- Added One Monokai and fixed it to display correctly on the new version. Almost the same at as the link.
+- Changed One Monokai to your liking. Creatortheme was taken from One Dark instead of One Monokai (which does not display some elements in the main menu), added some colors from One Monokai and added some of its own colors. Renamed the theme to "Warunai Monokai".
+- Added code highlighting from One Dark.
+- Added code highlighting from One Monokai and fixed bugs in three tags.
+- Changed the backlight from One Monokai to your liking. Received his own highlight called "Warunai Monokai".
