@@ -11,6 +11,22 @@
 
 	With the transition to the new version of Qt Creator 7, there were display
 	errors. I, Valentin Kalinovsky, rewrote the topic, correcting mistakes.
+
+	https://github.com/jakoch/one_monokai_theme_for_qtcreator
+
+	MIT License
+	
+	Copyright (c) 2021 Jens A. Koch
+
+	Permission is hereby granted, free of charge, to any person obtaining a copy
+	of this software and associated documentation files (the "Software"), to deal
+	in the Software without restriction, including without limitation the rights
+	to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+	copies of the Software, and to permit persons to whom the Software is
+	furnished to do so, subject to the following conditions:
+	
+	The above copyright notice and this permission notice shall be included in all
+	copies or substantial portions of the Software.
 	-->
 	<style name="Text" foreground="#abb2bf" background="#282c34"/>
 	<style name="Link" foreground="#d6c540"/>
@@ -42,7 +58,7 @@
 	<style name="PrimitiveType" foreground="#61afef"/>
 	<style name="Operator" foreground="#e06c75"/>
 	<style name="Overloaded Operator" foreground="#61afef"/>
-	<style name="Punctuation"/> <!-- foreground="#abb2bf" background="#282c34" -->
+	<style name="Punctuation"/> <!-- Removed the value: foreground="#abb2bf" background="#282c34" -->
 	<style name="Preprocessor" foreground="#c678dd"/>
 	<style name="Label" foreground="#d6c540"/>
 	<style name="Comment" foreground="#5c6370" italic="true"/>
@@ -81,8 +97,8 @@
 	<style name="WarningContext" underlineColor="#d6c545" underlineStyle="DotLine"/>
 	<style name="Error" underlineColor="#c24038" underlineStyle="SingleUnderline"/>
 	<style name="ErrorContext" underlineColor="#d65645" underlineStyle="DotLine"/>
-	<style name="Declaration"/> <!-- foreground="#98c379" bold="true" -->
-	<style name="FunctionDefinition"/> <!-- foreground="#98c379" -->
+	<style name="Declaration"/> <!-- Removed the value: foreground="#98c379" bold="true" -->
+	<style name="FunctionDefinition"/> <!-- Removed the value: foreground="#98c379" -->
 	<style name="OutputArgument" italic="true"/>
 	<style name="LastStyleSentinel"/>
 </style-scheme>
