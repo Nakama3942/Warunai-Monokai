@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <style-scheme version="1.0" name="Monokai">
 	<!--
-	За посиланням, що дав Jens A. Koch знаходиться тема лише для Sublime та Visual
-	Studio Code. Адаптовану версію під Qt Creator я найшов за посиланням:
+	According to the link provided by Jens A. Koch, there is a theme only for Sublime
+	and Visual Studio Code. I found an adapted version for Qt Creator at the link:
 	https://github.com/bfrg/qtcreator-monokai
 	-->
 	<style name="Text" foreground="#e6e5e2" background="#1e201a"/>
